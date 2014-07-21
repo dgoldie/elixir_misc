@@ -1,9 +1,6 @@
 ElixirMisc
 ==========
 
-** TODO: Add description **
-=======
-elixir_misc
-===========
-
 Miscellaneous elixir experiments
+
+1. Matches - an experiment in transforming a nested map
