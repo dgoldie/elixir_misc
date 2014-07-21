@@ -1,0 +1,2 @@
+defmodule ElixirMisc do
+end
